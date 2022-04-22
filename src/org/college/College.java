@@ -4,6 +4,7 @@ public class College {
 	public void collegeName() {
 		System.out.println("college name is JJCET");
 		System.out.println("student name is vignesh");
+		System.out.println("Student name is Raj");
 	}
 	public void collegeCode() {
 		System.out.println("college code is 5026");
